@@ -1,1 +1,2 @@
 testing 3rd file
+Modifying test3 to test the differences between branches
